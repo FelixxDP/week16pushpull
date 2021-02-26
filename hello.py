@@ -3,7 +3,11 @@
 # says hello
 print("Hello Felix")
 
+
 # oh why oh why
+
+# this is python3, can run in sypder or terminal
+
 
 
 # change in line 9
