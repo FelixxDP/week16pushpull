@@ -10,8 +10,8 @@ print("Hello Felix")
 
 
 
-# change in line 9
-
-
-print("Further Computer Programming can be fun")
-print("however it is not easy")
+# change in line 13 now
+# lots and lots of lines to be changed
+# make sure to git status everytime, or you might miss something!
+print("Further Computer Programming **can** be fun")
+print("however it is not easy....")
