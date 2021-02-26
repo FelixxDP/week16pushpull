@@ -3,7 +3,7 @@
 # says hello
 print("Hello Felix")
 
-# this is python
+# this is python3, can run in sypder or terminal
 
 
 # change in line 9
