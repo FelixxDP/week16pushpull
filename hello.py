@@ -1,11 +1,11 @@
 #! /usr/bin/python3
 
-# says hello
-print("Hello Felix")
+# says h
+print("Hello njkhhoielix")
 
 
-# oh why oh why
-
+# oh why o
+# huihiuohyoiyho8
 # this is python3, can run in sypder or terminal
 
 
